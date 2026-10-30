@@ -64,5 +64,112 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-LLMrouter.eu is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog) and added to the network as a stub for full-pipeline profiling.
-- https://llmrouter.eu/
+LLMrouter.eu provides a secure, EU‑compliant gateway for managing Large Language Models (LLMs). Based in Munich, it offers data‑privacy‑focused SaaS solutions, helping enterprises avoid vendor lock‑in, reduce costs, and ensure compliance with European regulations. The platform emphasizes reliability, cost‑optimization, and integration flexibility, supporting multi‑LLM management with a focus on security certifications such as ISO 9001, ISO 27001, and TISAX.
+
+**Areas:** Company · AI · SaaS · Security · EU
+
+## LLMrouter.eu on APIs.io
+
+Everything profiled for LLMrouter.eu is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/llmrouter/](https://apis.io/providers/llmrouter/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [LLMrouter API](https://apis.io/apis/llmrouter/llmrouter-api-2/) — LLMrouter API documentation and quickstart guide
+- [LLMrouter.eu API](https://apis.io/apis/llmrouter/llmrouter-api/) — LLMrouter.eu API as documented publicly: 2 operations. Contract generated from the documentation by API Evangelist (2026-10-18); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (3)
+
+The data models the API reads and writes.
+
+- [GetV1ModelsResponse](https://apis.io/schemas/llmrouter/llmrouter-get-v1-models-response/)
+- [PostV1ChatCompletionsRequest](https://apis.io/schemas/llmrouter/llmrouter-post-v1-chat-completions-request/)
+- [PostV1ChatCompletionsResponse](https://apis.io/schemas/llmrouter/llmrouter-post-v1-chat-completions-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Llmrouter Context](https://apis.io/jsonld/llmrouter/llmrouter-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [LLMrouter.eu API Rules](https://apis.io/rules/llmrouter/llmrouter-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Llmrouter Authentication](https://apis.io/security/llmrouter/llmrouter-authentication/)
+- [Llmrouter Domain Security](https://apis.io/security/llmrouter/llmrouter-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://llmrouter.eu/)
+- [Documentation](https://docs.llmrouter.eu/)
+- [API reference](https://docs.llmrouter.eu/)
+- [Sign up](https://app.llmrouter.eu/signup)
+- [Blog](https://www.llmrouter.eu/de/news)
+- [Terms of service](https://www.llmrouter.eu/de/impressum)
+- [Privacy policy](https://www.iubenda.com/privacy-policy/32798619)
+- [Status](https://status.llmrouter.eu/en/)
+
+## API Evangelist rating
+
+**Kin Score 46.3** — developing · rubric 0.24.0 · scored 2026-10-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 51.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 34.2 |
+
+**Agent readiness 39.8** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/llmrouter/](https://apis.io/providers/llmrouter/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for LLMrouter.eu: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/llmrouter/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
